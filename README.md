@@ -2,4 +2,4 @@
 
 <b>Home Page</b>
 
-<img src="home.png">
+<img src="home.jpg">
